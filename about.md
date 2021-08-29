@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ilana Feldman is a 24-year-old graduate student pursuing her Master's degree in statistics online with NC State.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Education
+
+Currently, Ilana's highest educational merit is a Bachelor of Science degree in mathematics from UNC. She has, additionally, had a long-standing interest in mathematics and has competed in various math competitions throughout middle school, high school, and college, including MATHCOUNTS, the North Carolina State Math Contest, and the Putnam Competition. Her Master's degree program in statistics will conclude in 2022. Her skills include a novice to intermediate level of proficiency in SAS, R, and Excel, the latter two of which have been primarily through experimentation while creating competition simulations. 
+
+#### Hobbies
+
+Ilana has a variety of hobbies, including composing music, playing bridge, and retro game romhacking. Some of her older compositions can be found [https://soundcloud.com/the_templar](on soundcloud) under her legal name, and she is currently planning development on a variety of piano, strings, and orchestral mashup music, in addition to a Kid Chameleon romhack that is scheduled to be released in late 2022.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mafeldm3@ncsu.edu](mailto:mafeldm3@ncsu.edu)
