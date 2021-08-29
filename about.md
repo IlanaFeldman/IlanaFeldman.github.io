@@ -14,7 +14,7 @@ Currently, Ilana's highest educational merit is a Bachelor of Science degree in 
 
 #### Hobbies
 
-Ilana has a variety of hobbies, including composing music, playing bridge, and retro game romhacking. Some of her older compositions can be found [https://soundcloud.com/the_templar](on soundcloud) under her legal name, and she is currently planning development on a variety of piano, strings, and orchestral mashup music, in addition to a Kid Chameleon romhack that is scheduled to be released in late 2022.
+Ilana has a variety of hobbies, including composing music, playing bridge, and retro game romhacking. Some of her older compositions can be found [on soundcloud](https://soundcloud.com/the_templar) under her legal name, and she is currently planning development on a variety of piano, strings, and orchestral mashup music, in addition to a Kid Chameleon romhack that is scheduled to be released in late 2022.
 
 ### Contact me
 
