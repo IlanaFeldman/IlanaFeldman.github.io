@@ -16,15 +16,17 @@ Currently, Ilana's highest educational merit is a Bachelor of Science degree in 
 
 Ilana has a variety of hobbies, including composing music, playing bridge, and retro game romhacking. Some of her older compositions can be found [on soundcloud](https://soundcloud.com/the_templar) under her legal name. Her current status on these hobbies, as of August 2021, is:
 
+##### Composition  
+  * In the planning phase for various strings and multi-instrumental pieces
+  * Experimenting with mashing up various pieces from the music group Two Steps From Hell
+  * Improvising piano music and then writing that music down using music notation software
 
-|Hobby        |Status                                                   |
-|-------------|---------------------------------------------------------|
-|Composition  |Planning to compose various piano and strings pieces     |
-|Bridge       |Currently not playing  much, due to the Delta variant    |
-|Romhacking   |Designing a Kid Chameleon romhack, to be finished in 2023|
+##### Bridge
+  * Currently on hold, due to the ongoing COVID epidemic and following Delta variant
 
-
-
+##### Romhacking
+  * Ongoing development on a Kid Chameleon romhack, which will be finished in late 2022 or early 2023
+  * In the planning phase for a Super Mario World romhack
 
 ### Contact me
 
