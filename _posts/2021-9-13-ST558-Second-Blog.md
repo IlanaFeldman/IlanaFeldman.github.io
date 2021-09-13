@@ -1,14 +1,9 @@
----
-title: "Programming Background"
-author: "Ilana Feldman"
-date: "9/13/2021"
----
+Programming Background
+================
+Ilana Feldman
+9/13/2021
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(fig.path= "../images/")
-```
-
-```{r eval = FALSE}
+``` r
 rmarkdown::render("./_Rmd/2021-9-13-ST558-Second-Blog.Rmd",
                   output_format = "github_document",
                   output_dir = "./_posts/",
@@ -65,9 +60,10 @@ the true potential of those languages.
 
 ## R Markdown Output
 
-``` {r ProgrammingAbility}
+``` r
 x <- c(2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021)
 y <- c(1, 2, 2, 4, 3, 2, 2, 3, 2, 6, 5)
 plot(x, y, xlab = "Year", ylab = "Confidence", type = "l", main = "Confidence in my Programming Ability, 2011-2021")
-
 ```
+
+![](../images/ProgrammingAbility-1.png)<!-- -->
