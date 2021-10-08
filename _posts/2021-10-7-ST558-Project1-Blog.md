@@ -56,4 +56,11 @@ most of them I inevitably changed a few things out. I think my biggest
 issue, though, was that I didn’t start until this previous weekend. With
 more time to explore exactly how the output of fromJSON was structured
 and to find solutions, I feel like I could have come up with a more
-elegant way to read in the information from APIs.
+elegant way to read in the information from APIs. For the next project,
+I’ll make sure I start earlier.
+
+The face of the project can be found
+[here](https://ilanafeldman.github.io/ST558Project1/) and the vignette
+is in the [github page](https://github.com/IlanaFeldman/ST558Project1)
+contained within, found
+[here](https://github.com/IlanaFeldman/ST558Project1/blob/main/PokemonVignette.md).
