@@ -32,4 +32,4 @@ this short of a timeline.
 The link to the project output page can be found
 [here](https://ilanafeldman.github.io/ST558-Project-2/) and the link to
 the project repo page can be found
-[here](https://github.com/IlanaFeldman/ST558-Project-2)
+[here](https://github.com/IlanaFeldman/ST558-Project-2).
