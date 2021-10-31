@@ -28,3 +28,8 @@ unpleasant than it should have been, especially since my partner was
 friendly, capable, and responsive. I think the clear takeaway here is
 that it’s very important to be involved in the setup when a project has
 this short of a timeline.
+
+The link to the project output page can be found
+[here](https://ilanafeldman.github.io/ST558-Project-2/) and the link to
+the project repo page can be found
+[here](https://github.com/IlanaFeldman/ST558-Project-2)
